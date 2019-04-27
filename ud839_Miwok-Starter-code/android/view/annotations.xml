@@ -1,0 +1,7 @@
+<root>
+    <item name='android.view.View android.content.Context getContext()'>
+        <annotation name='org.jetbrains.annotations.Contract'>
+            <val name="pure" val="true" />
+        </annotation>
+    </item>
+</root>
